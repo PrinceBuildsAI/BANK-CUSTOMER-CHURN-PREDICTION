@@ -19,7 +19,9 @@ A Machine Learning project that predicts whether a bank customer is likely to **
   </tr>
 </table>
 
----
+<h2 align="center">
+  📊 Trained on <strong>10,000+ Customer Records</strong>
+</h2>
 
 ## ✨ Project Highlights
 
