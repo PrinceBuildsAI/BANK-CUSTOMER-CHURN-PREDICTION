@@ -2,7 +2,7 @@
 
 A Machine Learning project that predicts whether a bank customer is likely to **churn** based on customer demographics, account information, financial behavior, and other relevant features.
 
-🔗 **[Bank Customer Churn — Live Project Demo](https://bank-customer-churn-prediction-princebuildsai.streamlit.app/)**
+🔗 **[Bank Customer Churn — Live Project](https://bank-customer-churn-prediction-princebuildsai.streamlit.app/)**
 
 ---
 
